@@ -5,3 +5,7 @@
      * [Android](./Android.xmind)
      * [Java](./Java.xmind)
      * [Android性能优化·](./AppOpt.xmind)
+     * [Jvm](./jvm.xmind)
+     * [OpenGL](./OpenGLES.emmx) (用emind打开)
+
+    
